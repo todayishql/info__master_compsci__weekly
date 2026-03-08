@@ -1,4 +1,4 @@
-# MSCS [2026-2029]
+# MSCS [2026]
 
 ```mermaid
 %%{init: { 
