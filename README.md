@@ -24,9 +24,9 @@ timeline
     12/2026 - 3/2027 : (11)
     4/2027 - 7/2027 : (11)
     8/2027 - 11/2027 : (7)
-    12/2027 - 3/2028 : (7)
-    4/2028 - 7/2028 :  (4), Thesis Proposal
-    8/2028 - 12/2028 : Master Thesis (12)
+    12/2027 - 3/2028 : (7), Thesis Proposal
+    4/2028 - 7/2028 :  (4), Thesis
+    8/2028 - 11/2028 : Thesis + Defense
 ```
 | CourseID | CourseTitle | Credit |
 | :--- | :--- | :--- |
