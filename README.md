@@ -45,3 +45,14 @@ timeline
 | IT2030 | Advanced geographic information system | 3 |
 | CE2208 | Parallel System Programming with GPU | 4 |
 | CS2501 | Thesis | 12 |
+
+---
+
+Học vụ:
+1. Xét chuẩn đầu ra ngoại ngữ:
+   - 4 Đợt xét: 30/3, 30/6, 30/9, 30/12
+   - [Thông báo](https://sdh.uit.edu.vn/bai-viet/thong-bao-dang-ky-xet-dat-chuan-dau-ra-ngoai-ngu-dot-1-nam-2026)
+
+2. Đăng ký đề tài luận văn:
+   - 3 Đợt xét: Tháng 3, Tháng 7, Tháng 11
+   - [Thông báo](https://sdh.uit.edu.vn/bai-viet/thong-bao-dang-ky-xet-duyet-de-tai-luan-van-thac-si-dot-1-nam-2026)
